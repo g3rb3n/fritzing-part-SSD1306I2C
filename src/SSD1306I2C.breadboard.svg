@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="27.200001mm"
+   height="27.200001mm"
+   viewBox="0 0 96.377951 96.377953"
+   id="svg3537"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="SSD1306I2C.breadboard.svg">
+  <defs
+     id="defs3539" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="9.5673149"
+     inkscape:cx="69.343688"
+     inkscape:cy="53.328975"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="3200"
+     inkscape:window-height="1752"
+     inkscape:window-x="0"
+     inkscape:window-y="48"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata3542">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-955.98419)">
+    <rect
+       y="955.98419"
+       x="1.6005203e-14"
+       height="96.377953"
+       width="96.377953"
+       id="rect5389"
+       style="fill:#000055;fill-opacity:1;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none" />
+    <g
+       id="g3351"
+       transform="translate(-0.68724251,0)">
+      <rect
+         transform="scale(-1,-1)"
+         rx="2.52"
+         y="-965.58868"
+         x="-57.876217"
+         height="9"
+         width="9"
+         id="rect4374-3-6-7-5-3-5-6-2-1"
+         style="fill:#000000;fill-opacity:1;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none" />
+      <rect
+         transform="scale(-1,-1)"
+         rx="2.52"
+         y="-965.58868"
+         x="-48.876225"
+         height="9"
+         width="9"
+         id="rect4374-3-6-7-5-3-5-6-2-1-2"
+         style="fill:#000000;fill-opacity:1;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none" />
+      <rect
+         transform="scale(-1,-1)"
+         rx="2.52"
+         y="-965.58868"
+         x="-66.876213"
+         height="9"
+         width="9"
+         id="rect4374-3-6-7-5-3-5-6-2-1-2-7"
+         style="fill:#000000;fill-opacity:1;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none" />
+      <rect
+         transform="scale(-1,-1)"
+         rx="2.52"
+         y="-965.58868"
+         x="-39.876225"
+         height="9"
+         width="9"
+         id="rect4374-3-6-7-5-3-5-6-2-1-2-3"
+         style="fill:#000000;fill-opacity:1;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none" />
+    </g>
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4648"
+       width="96.377953"
+       height="67.322838"
+       x="-96.377953"
+       y="-1037.8346"
+       transform="scale(-1,-1)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.75px;line-height:125%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="38.765701"
+       y="969.22357"
+       id="text4736-6-1-0-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4738-1-1-3-1"
+         x="38.765701"
+         y="969.22357"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.75px;line-height:125%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1">VDD</tspan></text>
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path4650-3"
+       cx="-8.8582735"
+       cy="-1043.5039"
+       transform="scale(-1,-1)"
+       r="5.3149605" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path4650-6-7"
+       cx="-87.519691"
+       cy="-1043.5039"
+       transform="scale(-1,-1)"
+       r="5.3149605" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path4650-6-7-3"
+       cx="-87.519691"
+       cy="-964.84247"
+       transform="scale(-1,-1)"
+       r="5.3149605" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path4650-3-6"
+       cx="-8.8582716"
+       cy="-964.84247"
+       transform="scale(-1,-1)"
+       r="5.3149605" />
+    <rect
+       style="fill:#00ffff;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3387"
+       width="85.03936"
+       height="42.519684"
+       x="5.6693001"
+       y="976.5354" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.75px;line-height:125%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="28.890789"
+       y="969.27301"
+       id="text4736-6-1-0-8-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4738-1-1-3-1-5"
+         x="28.890789"
+         y="969.27301"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.75px;line-height:125%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1">GND</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.75px;line-height:125%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="48.55547"
+       y="969.27301"
+       id="text4736-6-1-0-8-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4738-1-1-3-1-56"
+         x="48.55547"
+         y="969.27301"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.75px;line-height:125%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1">SCK</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.75px;line-height:125%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="58.13192"
+       y="969.27301"
+       id="text4736-6-1-0-8-3-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4738-1-1-3-1-56-9"
+         x="58.13192"
+         y="969.27301"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.75px;line-height:125%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1">SDA</tspan></text>
+  </g>
+</svg>
